@@ -1,0 +1,15 @@
+[submodule "WMP"]
+	path = thirdparty/WMP
+	url = https://github.com/bytedance/WMP.git
+
+[submodule "IsaacLab"]
+	path = thirdparty/IsaacLab
+	url = https://github.com/isaac-sim/IsaacLab.git
+
+[submodule "dribblebot"]
+	path = thirdparty/dribblebot
+	url = https://github.com/Improbable-AI/dribblebot.git
+
+[submodule "MimicKit"]
+	path = thirdparty/MimicKit
+	url = https://github.com/xbpeng/MimicKit.git
