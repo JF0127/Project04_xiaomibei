@@ -13,9 +13,3 @@
 [submodule "MimicKit"]
 	path = thirdparty/MimicKit
 	url = https://github.com/xbpeng/MimicKit.git
-[submodule "thirdparty/WMP"]
-	path = thirdparty/WMP
-	url = https://github.com/bytedance/WMP.git
-[submodule "thirdparty/dribblebot"]
-	path = thirdparty/dribblebot
-	url = https://github.com/Improbable-AI/dribblebot.git
